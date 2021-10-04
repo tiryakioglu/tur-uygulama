@@ -1,0 +1,15 @@
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\bin\Debug\Duzcetur.exe.config
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\bin\Debug\Duzcetur.exe
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\bin\Debug\Duzcetur.pdb
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form1.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form2.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Properties.Resources.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.csproj.GenerateResource.cache
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.csproj.CoreCompileInputs.cache
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.exe
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.pdb
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form3.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form4.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form5.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.Form6.resources
+C:\Users\sevensnmaster\source\repos\Duzcetur\Duzcetur\obj\Debug\Duzcetur.csprojAssemblyReference.cache

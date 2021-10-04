@@ -1,0 +1,1 @@
+Data Source=7SNMASTER\\SQLEXPRESS;Initial Catalog=tursirket;User ID=sa;Password=123deneme
